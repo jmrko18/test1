@@ -1,0 +1,25 @@
+body{
+    color:white ;
+    max-width:600 px;
+    height: auto;
+    font-size: medium;
+    font-family: Georgia;
+    font-weight: lighter;
+    font-style: italic;
+    background-color: black;
+}
+
+header{
+    color:turquoise ;
+    max-width: 50 px;
+    height: 20px;
+}
+
+p{
+    color: lightcyan;
+    font-style: normal;
+    font-weight: bolder;
+    font-family: 'Gill Sans';
+    font-size: smaller;
+}
+
