@@ -1,25 +1,85 @@
 body{
-    color:white ;
+    background-color: #F4F4F4;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    margin: 10%;
+    background-color: #F1F0EC ;
+}
+
+nav{
+    display: inline;
+    padding-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body{
+    color:rgb(3, 3, 3) ;
     max-width:600 px;
     height: auto;
     font-size: medium;
     font-family: Georgia;
     font-weight: lighter;
-    font-style: italic;
-    background-color: black;
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
 }
 
+h1{
+    font-size: large;
+    font-style: normal;
+}
+
+
 header{
-    color:turquoise ;
+    color:rgb(0, 0, 0) ;
     max-width: 50 px;
     height: 20px;
 }
 
 p{
-    color: lightcyan;
+    color: rgb(0, 0, 0);
     font-style: normal;
     font-weight: bolder;
     font-family: 'Gill Sans';
     font-size: smaller;
 }
+
+.navigation{
+    font-family: 'monospace';
+    font-weight: normal;
+}
+
+
+  img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.bottom-line{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*/
+
 
